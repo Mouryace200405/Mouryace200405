@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">I'm Mourya</h1>
+<h3 align="center">Developer | Linux Enthusiast | DevOps & Systems</h3>
 
-<!--
-**Mouryace200405/Mouryace200405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🐧 Daily Linux user
+- 🔭 Working on **AI, Full-Stack & Systems**
+- 🌱 Learning **Rust,C++,Java, Linux internals**
+- ⚙️ Love **Linux, automation, and minimal systems**
+- 📫 Reach me at: **mouryace@gmail.com**
+- 💻 Strong in **JavaScript**
+- 🛠️ Backend & systems with **Python**
+- 🗄️ Database experience with **PostgreSQL (psql)**
+- 🖥️ Terminal-driven workflow with **zsh, fish, zellij**
+- ⚙️ Interested in **systems, AI,LLMs and low-level tooling**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,cpp,java,python,js,html,css,git,docker" />
+</p>
+
+---
+### 🧩 Tools & Environment
+- Shells: **zsh, fish**
+- OS: **Debian Linux**
+- Terminal Multiplexer: **zellij**
+- Workflow: CLI-first, minimal & efficient
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mouryace200405&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mouryace200405&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+- GitHub: https://github.com/Mouryace200405
