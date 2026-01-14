@@ -1,5 +1,5 @@
 <h1 align="center">I'm Mourya</h1>
-<h3 align="center">Developer | Linux Enthusiast | DevOps & Systems</h3>
+<h3 align="center">Developer | Linux Enthusiast | AI & Systems</h3>
 
 ---
 
