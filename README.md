@@ -1,3 +1,16 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?
+font=JetBrains+Mono&
+size=22&
+pause=1000&
+color=7AA2F7&
+center=true&
+vCenter=true&
+width=520&
+lines=Linux+%26+Systems+Developer;CLI-first+Workflow;AI+%26+Low-level+Enthusiast" />
+
+</div>
 <h1 align="center">I'm Mourya</h1>
 <h3 align="center">Developer | Linux Enthusiast | AI & Systems</h3>
 
