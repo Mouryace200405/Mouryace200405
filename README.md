@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=700&color=FFD700&center=true&vCenter=true&width=760&lines=Linux+Power+User;Systems+%26+AI+Developer;CLI-First+%7C+Low-Level+%7C+Automation;Engineering+Over+Hype" />
 
-<img src="https://raw.githubusercontent.com/Mouryace200405/Mouryace200405/main/assets/signature.svg" width="320" />
-
 </div>
 
 ---
@@ -35,6 +33,12 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mouryace200405&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffd700&icon_color=ffb703&text_color=e6edf3&count_private=true" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mouryace200405&hide_border=true&background=0d1117&ring=ffd700&fire=ffb703&currStreakLabel=ffd700&sideLabels=e6edf3" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mouryace200405&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffd700&icon_color=ffb703&text_color=e6edf3&count_private=true" />
+  <br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mouryace200405&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffd700&text_color=e6edf3&langs_count=5" />
 </p>
 
 ---
