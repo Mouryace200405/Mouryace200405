@@ -32,12 +32,6 @@
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mouryace200405&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffd700&icon_color=ffb703&text_color=e6edf3&count_private=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mouryace200405&hide_border=true&background=0d1117&ring=ffd700&fire=ffb703&currStreakLabel=ffd700&sideLabels=e6edf3" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mouryace200405&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffd700&icon_color=ffb703&text_color=e6edf3&count_private=true" />
-  <br/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mouryace200405&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffd700&text_color=e6edf3&langs_count=5" />
 </p>
 
@@ -67,5 +61,19 @@
   <a href="mailto:mouryace@gmail.com">
     <img src="https://img.shields.io/badge/Email-mouryace%40gmail.com-ffd700?style=flat-square&logo=gmail&logoColor=black" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Mouryace200405&style=flat-square&color=ffd700" />
+</p>
+
+
+<p align="left">
+  <a href="mailto:mouryace@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mouryace%40gmail.com-ffd700?style=for-the-badge&logo=gmail&logoColor=black" height="45" />
+  </a>
+  <a href="https://github.com/Mouryace200405">
+    <img src="https://img.shields.io/badge/GitHub-Mouryace200405-ffb703?style=for-the-badge&logo=github&logoColor=black" height="45" />
+  </a>
+</p>
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Mouryace200405&style=flat-square&color=ffd700" />
 </p>
