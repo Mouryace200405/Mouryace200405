@@ -1,6 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=190&section=header&text=Mourya&fontSize=72&fontAlignY=52&animation=fadeIn&color=0:ffd700,50:ffb703,100:ff8c00" />
+<!-- Gradient name as TEXT (no background banner) -->
+
+<svg width="100%" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffd700" />
+      <stop offset="50%" stop-color="#ffb703" />
+      <stop offset="100%" stop-color="#ff8c00" />
+    </linearGradient>
+  </defs>
+  <text x="50%" y="75" text-anchor="middle" font-size="72" font-family="JetBrains Mono, monospace" fill="url(#goldGradient)">
+    Mourya
+  </text>
+</svg>
 
 <img src="https://readme-typing-svg.demolab.com?
 font=JetBrains+Mono&
@@ -54,7 +67,7 @@ Database  : PostgreSQL
 
 ---
 
-##  GitHub Metrics
+## GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mouryace200405&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffd700&icon_color=ffb703&text_color=e6edf3" />
@@ -70,7 +83,7 @@ Database  : PostgreSQL
 
 ---
 
-##  Trophies
+## Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mouryace200405&theme=gruvbox&no-frame=true&row=1&column=6" />
@@ -78,15 +91,15 @@ Database  : PostgreSQL
 
 ---
 
-##  Coding Activity
+## Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mouryace200405&hide_border=true&bg_color=0d1117&title_color=ffd700&text_color=e6edf3" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mouryace200405&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffd700&text_color=e6edf3" />
 </p>
 
 ---
 
-##  Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mouryace200405/Mouryace200405/output/github-contribution-grid-snake-dark.svg" />
